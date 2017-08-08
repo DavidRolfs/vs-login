@@ -12,6 +12,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "IdentityStuff", "src\IdentityStuff\IdentityStuff.xproj", "{97024C5B-33FA-4129-AB0E-B44B8FE072C9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{CDEF672E-E587-446B-861D-2FA04A23C31C}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ToDoList.Tests", "ToDoList.Tests\ToDoList.Tests.xproj", "{956AD44A-4D5B-4DA9-B690-93455C933108}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,11 +26,16 @@ Global
 		{97024C5B-33FA-4129-AB0E-B44B8FE072C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97024C5B-33FA-4129-AB0E-B44B8FE072C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97024C5B-33FA-4129-AB0E-B44B8FE072C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{956AD44A-4D5B-4DA9-B690-93455C933108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956AD44A-4D5B-4DA9-B690-93455C933108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{956AD44A-4D5B-4DA9-B690-93455C933108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956AD44A-4D5B-4DA9-B690-93455C933108}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{97024C5B-33FA-4129-AB0E-B44B8FE072C9} = {68EBC13D-0F59-460D-BA75-5F5D067B356D}
+		{956AD44A-4D5B-4DA9-B690-93455C933108} = {CDEF672E-E587-446B-861D-2FA04A23C31C}
 	EndGlobalSection
 EndGlobal
