@@ -194,5 +194,6 @@
 -r:"C:\Users\epicodus\.nuget\packages\xunit.runner.utility\2.2.0-beta2-build3300\lib\netstandard1.1\xunit.runner.utility.dotnet.dll"
 -r:"C:\Users\epicodus\Documents\Visual Studio 2015\Projects\vs-login\src\IdentityStuff\bin\Debug\netcoreapp1.0\IdentityStuff.dll"
 "C:\Users\epicodus\Documents\Visual Studio 2015\Projects\vs-login\ToDoList.Tests\Class1.cs"
-"C:\Users\epicodus\Documents\Visual Studio 2015\Projects\vs-login\ToDoList.Tests\ItemTest.cs"
+"C:\Users\epicodus\Documents\Visual Studio 2015\Projects\vs-login\ToDoList.Tests\ControllerTests\ItemsControllerTests.cs"
+"C:\Users\epicodus\Documents\Visual Studio 2015\Projects\vs-login\ToDoList.Tests\ModelTests\ItemTest.cs"
 "C:\Users\epicodus\Documents\Visual Studio 2015\Projects\vs-login\ToDoList.Tests\Properties\AssemblyInfo.cs"
